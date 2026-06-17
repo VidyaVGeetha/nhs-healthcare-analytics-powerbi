@@ -133,7 +133,8 @@ Implemented:
 
 ---
 ## Dashboard
-https://github.com/VidyaVGeetha/nhs-healthcare-analytics-powerbi/blob/main/Dashboard_Screenshot.png?raw=true
+[https://github.com/VidyaVGeetha/nhs-healthcare-analytics-powerbi/blob/main/Dashboard_Screenshot.png?raw=true
+](https://github.com/VidyaVGeetha/nhs-healthcare-analytics-powerbi/blob/main/Dashboard_Screenshot.png?raw=true)<img width="1206" height="703" alt="image" src="https://github.com/user-attachments/assets/0e25d105-2609-4ebb-8d00-21df4c7bca4a" />
 
 
 ## 📸 Project Assets
