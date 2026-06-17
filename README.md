@@ -132,6 +132,9 @@ Implemented:
 - Microsoft Excel  
 
 ---
+## Dashboard
+https://github.com/VidyaVGeetha/nhs-healthcare-analytics-powerbi/blob/main/Dashboard_Screenshot.png?raw=true
+
 
 ## 📸 Project Assets
 
